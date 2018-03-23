@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="binance.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="coincap.py">
       <SubType>Code</SubType>
     </Compile>
